@@ -1,4 +1,5 @@
-Name: King James P. YLen
-\nProgram Title: Shopping List
-\nWhat my program does: you will input things you want to shop it can only store 5 items, after you input 5 items it will print or list all of the things you put and then after printing you can search items so you can check if the item is in your shopping list
-\nSample: <img width="829" height="344" alt="image" src="https://github.com/user-attachments/assets/81cf059c-9a5c-4733-a930-9896f0c8fd07" />
+#Shopping List Project
+1. Name: King James P. YLen
+2. Program Title: Shopping List
+3. What my program does: you will input things you want to shop it can only store 5 items, after you input 5 items it will print or list all of the things you put and then after printing you can search items so you can check if the item is in your shopping list
+4. Sample: <img width="829" height="344" alt="image" src="https://github.com/user-attachments/assets/81cf059c-9a5c-4733-a930-9896f0c8fd07" />
