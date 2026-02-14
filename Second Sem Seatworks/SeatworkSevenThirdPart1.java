@@ -1,5 +1,3 @@
-package Second.Sem.Seatworks;
-
 public class SeatworkSevenThirdPart1 {
     public static void main(String[] args) {
         int number1 = 20;
