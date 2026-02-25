@@ -1,3 +1,4 @@
+package FirstSemSeatworks;
 import java.util.Scanner;
 
 public class SeatworkFifthteenP2 {

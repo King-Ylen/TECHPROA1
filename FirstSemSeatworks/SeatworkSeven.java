@@ -1,3 +1,4 @@
+package FirstSemSeatworks;
 public class SeatworkSeven {
     public static void main(String[] args) {
 

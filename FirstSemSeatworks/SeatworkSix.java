@@ -1,3 +1,4 @@
+package FirstSemSeatworks;
 public class SeatworkSix {
     public static void main(String[] args){
         System.out.println("Seatworksix");
